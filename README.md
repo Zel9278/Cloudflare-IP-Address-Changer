@@ -12,7 +12,7 @@ IPv4 アドレスを自動で取得し，Cloudflare の設定を自動変更す�
 
 ## 使い方
 
-1. ビルドすると生成される `CP IP Address Changer.exe.config` を編集する
+1. ビルドすると生成される `CF IP Address Changer.exe.config` を編集する
    - 14 行目: ドメインページの右側，API ゾーン ID
    - 17 行目: 対象の DNS レコード
    - 20 行目: アカウントのメールアドレス
@@ -22,4 +22,4 @@ IPv4 アドレスを自動で取得し，Cloudflare の設定を自動変更す�
        2. 左側にある `API トークン (API Tokens)`
        3. 下にある `API キー (API Key)`
        4. `Global Key` をコピー
-2. `CP IP Address Changer.exe` を実行
+2. `CF IP Address Changer.exe` を実行
